@@ -58,3 +58,7 @@ Whether your project is creating your first governance document or looking for w
 Please also visit our [website](https://contribute.cncf.io/about/governance/) to learn more about the work of the Governance Working Group.
 
 We regularly update and improve these resources, and your active participation and contributions to this working group's efforts are encouraged.
+
+## Governance review request
+
+As part of [CNCF Project Lifecycle & Process](https://github.com/cncf/toc/blob/main/process/README.md) projects looking for a governance review should [open an issue](https://github.com/cncf/tag-contributor-strategy/issues/new/choose) in this repository.
